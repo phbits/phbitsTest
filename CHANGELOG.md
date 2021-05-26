@@ -12,3 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 - Azure Pipelines Code Coverage Job
+
+### Add
+
+- Build task to generate conceptual help.
