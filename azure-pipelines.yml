@@ -279,7 +279,7 @@ stages:
           eq(variables['Build.SourceBranch'], 'refs/heads/main'),
           startsWith(variables['Build.SourceBranch'], 'refs/tags/')
         ),
-        contains(variables['System.TeamFoundationCollectionUri'], 'synedgy')
+        contains(variables['System.TeamFoundationCollectionUri'], 'phbits')
       )
     jobs:
       - job: Deploy_Module
