@@ -5,14 +5,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- README badge links.
+
 ### Changed
 
-- Tagged initial release as `0.0.1`
+- Tagged initial release as `0.0.1`.
 
 ### Removed
 
-- Azure Pipelines Code Coverage Job
+- Azure Pipelines Code Coverage Job.
 
-### Add
+### Added
 
 - Build task to generate conceptual help.
