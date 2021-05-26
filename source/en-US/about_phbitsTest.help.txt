@@ -1,0 +1,26 @@
+TOPIC
+    about_phbitsTest
+
+SHORT DESCRIPTION
+    phbits Test Module description.
+
+LONG DESCRIPTION
+    phbits Test Module is used to test integration with: Sampler; Azure; Github; PowerShell Gallery.
+
+EXAMPLES
+    PS C:\> Get-PublicFunction -Input1 'Hello' -Input2 'World'
+
+    PS C:\> Get-PublicFunctionTwo
+
+NOTE:
+    Thank you to all those who contributed to this module, by writing code, sharing opinions, and provided feedback.
+
+TROUBLESHOOTING NOTE:
+    Look out on the Github repository for issues and new releases.
+
+SEE ALSO
+  - https://github.com/phbits/phbitsTest
+
+KEYWORDS
+      'Test','DoNotUse'
+
