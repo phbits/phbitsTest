@@ -53,6 +53,7 @@ BuildWorkflow:
     - Create_changelog_release_output
     - Generate_Conceptual_Help
     - Generate_Wiki_Content
+    - Update_markdown_help_source
 
   pack:
     - build
@@ -76,7 +77,7 @@ BuildWorkflow:
 
   publish:
     - publish_module_to_gallery
-    - Publish_Release_To_GitHub
+    - Publish_release_To_GitHub
     - Publish_GitHub_Wiki_Content
     - Create_ChangeLog_GitHub_PR
 
