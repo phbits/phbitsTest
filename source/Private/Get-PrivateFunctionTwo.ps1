@@ -1,5 +1,12 @@
 Function Get-PrivateFunctionTwo
 {
+	<#
+		.SYNOPSIS
+			Get-PrivateFunctionTwo
+
+		.DESCRIPTION
+			Get-PrivateFunctionTwo description.
+	#>
 	[CmdletBinding()]
 	param()
 
