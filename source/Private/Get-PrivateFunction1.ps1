@@ -1,5 +1,12 @@
 Function Get-PrivateFunction1
 {
+	<#
+		.SYNOPSIS
+			Get-PrivateFunction1
+
+		.DESCRIPTION
+			Get-PrivateFunction1 description.
+	#>
 	[CmdletBinding()]
 	param(
 		[System.String]
