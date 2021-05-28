@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - platyPS to RequiredModules.psd1
 - Added help to Get-PrivateFunction1.
 - Help for Get-PrivateFunctionTwo.
+- Help for Get-PublicFunction.
 
 ## [0.2.0] - 2021-05-26
 
