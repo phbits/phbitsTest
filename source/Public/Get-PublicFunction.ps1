@@ -1,5 +1,12 @@
 Function Get-PublicFunction
 {
+	<#
+		.SYNOPSIS
+			Get-PublicFunction
+
+		.DESCRIPTION
+			Get-PublicFunction description.
+	#>
 	[CmdletBinding()]
 	param(
 		[System.String]
